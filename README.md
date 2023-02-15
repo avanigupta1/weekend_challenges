@@ -9,8 +9,11 @@ Various 2-day data science challenges.
 - Cleaning
 - Data extraction
 - Feature engineering
-- Modeling
 - Multi-touch attribution
+- Clustering & segmentation
+- Modeling methods
+- Model tuning
+- Threshold testing
 
 2. [Restaurant Violation Classification](https://github.com/avanigupta1/weekend_challenges/blob/main/Restaurant_Violation_Classification.ipynb)
 - Data Aggregation
